@@ -9,5 +9,5 @@
 - 📫 How to reach me:<a href="www.linkedin.com/in/omhpathak">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-- ⚡ Fun fact: I dance and ride my motorcyle in my free time
+- ⚡ Hit me up for anything tech-related
 
