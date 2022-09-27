@@ -2,7 +2,7 @@
 
 
 
-- :man_technologist: I’m interning at Coinbase as a Software Engineer
+- :man_technologist: Previously worked at Coinbase, Lean Financial
 - 🌱 I’m learning computer science and robotics at the University of Maryland
 - :man_teacher: I'm teaching a course on Blockchain and Cryptocurrency at the University of Maryland
 - 💬 Ask me about Web3, Finance, and Computers!
